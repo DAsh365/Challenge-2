@@ -22,7 +22,8 @@ This portfolio includes a selection of my best work samples along with informati
 
 ## Deployment
 
-The live version of the portfolio can be found at [Live Portfolio URL](#)
+The live version of the portfolio can be found at [Live Portfolio URL](https://dash365.github.io/Portfolio/)
+![alt text](./Assets/Images/Portfolio.png)
 
 ## Contact
 
